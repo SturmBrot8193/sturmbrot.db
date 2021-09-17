@@ -1,0 +1,25 @@
+{
+  "name": "sturmbrot.db",
+  "version": "0.0.5",
+  "description": "An easy database and easy to use. Data is stored in a json file on your server!",
+  "main": "index.js",
+  "keywords": [
+    "database",
+    "db",
+    "json",
+    "jsondata",
+    "fs",
+    "databases",
+    "jsonfolder",
+    "dbase",
+    "datab",
+    "sturmbrot.db",
+    "SturmBrot",
+    "stormbread"
+  ],
+  "author": "SturmBrot",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2"
+  }
+}
