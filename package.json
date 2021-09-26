@@ -1,6 +1,6 @@
 {
   "name": "sturmbrot.db",
-  "version": "0.0.5",
+  "version": "0.1.2",
   "description": "An easy database and easy to use. Data is stored in a json file on your server!",
   "main": "index.js",
   "keywords": [
@@ -21,5 +21,17 @@
   "license": "MIT",
   "dependencies": {
     "fs": "0.0.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SturmBrot8193/sturmbrot.db.git"
+  },
+  "bugs": {
+    "url": "https://dsc.gg/sturmbrot.db"
+  },
+  "homepage": "https://db.sturmbrot.ml"
 }
