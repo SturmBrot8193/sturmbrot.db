@@ -1,5 +1,5 @@
 const fs = require("fs");
-const err = 'Error\nNeed help? https://discord.gg/Chu4sxNfaB'
+const err = 'Error\nNeed help? https://dsc.gg/sturmbrot.db'
 module.exports = class GHOST {
 constructor(filePath){
 this.json = filePath || "./sturmbrot.json";
